@@ -1,0 +1,1 @@
+{"colsample_bytree": 0.8, "gamma": 0.0, "learning_rate": 0.005, "max_depth": 4, "min_child_weight": 0, "n_estimators": 250, "reg_alpha": 2.5, "reg_lambda": 0.1, "subsample": 0.9}
